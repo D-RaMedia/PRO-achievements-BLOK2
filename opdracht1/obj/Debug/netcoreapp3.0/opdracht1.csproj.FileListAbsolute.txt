@@ -1,0 +1,11 @@
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\obj\Debug\netcoreapp3.0\opdracht1.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\obj\Debug\netcoreapp3.0\opdracht1.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\obj\Debug\netcoreapp3.0\opdracht1.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\bin\Debug\netcoreapp3.0\opdracht1.exe
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\bin\Debug\netcoreapp3.0\opdracht1.deps.json
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\bin\Debug\netcoreapp3.0\opdracht1.runtimeconfig.json
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\bin\Debug\netcoreapp3.0\opdracht1.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\bin\Debug\netcoreapp3.0\opdracht1.dll
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\bin\Debug\netcoreapp3.0\opdracht1.pdb
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\obj\Debug\netcoreapp3.0\opdracht1.dll
+C:\Users\Diego\OneDrive\Documenten\ma\bewijzenmap\periode1.2\pro2\opdracht1\obj\Debug\netcoreapp3.0\opdracht1.pdb
